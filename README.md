@@ -88,7 +88,7 @@
 
 ## 🤝 Hubungi Saya / Let's Connect
 
-- 💬 **Discord:** [Komunitas Sky CotL Height Tool](https://discord.gg/BRVZwxPUTH)
+- 💬 **Discord:** [Komunitas KoRifCan](https://discord.gg/BRVZwxPUTH)
 - 🐙 **GitHub:** [@KoRifCan](https://github.com/KoRifCan) — silakan buka *issue* atau *pull request* di proyek-proyek saya!
 - 🚀 **Website:** [korifcan.github.io](https://korifcan.github.io/)
 
