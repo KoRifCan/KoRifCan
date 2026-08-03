@@ -9,7 +9,7 @@
 *I build web apps, tools, and games — from game utilities to finance, SEO, media tools, and company management systems.*
 
 ![GitHub followers](https://img.shields.io/github/followers/KoRifCan?style=for-the-badge&logo=github&color=2CA89A)
-![Profile views](https://komarev.com/ghpvc/?username=KoRifCan&style=for-the-badge&color=2CA89A)
+![Profile views](https://hits.sh/github.com/KoRifCan.svg?label=Profile%20views&color=2CA89A)
 ![Language](https://img.shields.io/badge/Code-React%20%7C%20JS%20%7C%20TS%20%7C%20Flutter%20%7C%20Firebase-2CA89A?style=for-the-badge)
 
 </div>
@@ -66,11 +66,9 @@
 
 <div align="center">
 
-![KoRifCan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoRifCan&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KoRifCan&layout=compact&theme=transparent&hide_border=true)
-
 ![KoRifCan Metrics](https://raw.githubusercontent.com/KoRifCan/KoRifCan/main/metrics.svg)
+
+*Kartu statistik ini diperbarui otomatis setiap minggu — proyek baru langsung muncul.*
 
 </div>
 
@@ -90,7 +88,7 @@
 
 - 💬 **Discord:** [Komunitas KoRifCan](https://discord.gg/BRVZwxPUTH)
 - 🐙 **GitHub:** [@KoRifCan](https://github.com/KoRifCan) — silakan buka *issue* atau *pull request* di proyek-proyek saya!
-- 🚀 **Website:** [korifcan.github.io](https://korifcan.github.io/)
+- 🚀 **Website:** [Sky: CotL Height Tool](https://korifcan.github.io/sky-cotl-height-tool/) — situs utama saya
 
 ---
 
