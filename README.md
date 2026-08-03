@@ -50,7 +50,7 @@
 |---|---|---|
 | [**Expense-Tracker**](https://github.com/KoRifCan/Expense-Tracker) | Catatan Keuangan Pribadi — full stack app: login Email/Google, kelola pemasukan & pengeluaran | React + Firebase |
 | [**Sistem-Manajemen-Perusahaan**](https://github.com/KoRifCan/Sistem-Manajemen-Perusahaan) | HRIS + Payroll + Approval + Aset + Performance | Flutter + Firebase |
-| [**Portofolio**](https://github.com/KoRifCan/Portofolio) | Situs portofolio pribadi | HTML |
+| [**Portofolio**](https://github.com/KoRifCan/Portofolio) | Situs portofolio pribadi — [lihat live](https://korifcan.github.io/Portofolio/) | HTML |
 
 ### 🌸 Personal
 
@@ -88,7 +88,7 @@
 
 - 💬 **Discord:** [Komunitas KoRifCan](https://discord.gg/BRVZwxPUTH)
 - 🐙 **GitHub:** [@KoRifCan](https://github.com/KoRifCan) — silakan buka *issue* atau *pull request* di proyek-proyek saya!
-- 🚀 **Website:** [Sky: CotL Height Tool](https://korifcan.github.io/sky-cotl-height-tool/) — situs utama saya
+- 🚀 **Website:** [Portofolio](https://korifcan.github.io/Portofolio/) — berisi semua proyek saya
 
 ---
 
